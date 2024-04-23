@@ -5,22 +5,6 @@ import * as RiIcons from "react-icons/ri";
 import SubMenu from "./SubMenu";
 import SubMenuChild from "./SubMenuChild";
 
-
-// export const images = [
-//   {
-//     img: "/whatsapp.png",
-//   },
-//   {
-//     img: "/whatsapp.png",
-//   },
-//   {
-//     img: "/whatsapp.png",
-//   },
-//   {
-//     img2: "/whatsapp.png",
-   
-//   },
-// ]
 export const navbarData = [
   {
     title: "Home",
